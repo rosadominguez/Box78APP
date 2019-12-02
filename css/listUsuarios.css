@@ -1,0 +1,44 @@
+
+#cajaTabla, .cajaTabla2{
+    position: relative;
+    margin-top: 20px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    background-color: white;
+
+}
+
+.tablaUsuarios{
+    
+    width: 100%;
+    height: 100%;
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    position: relative;
+
+}
+.listaBotones1{
+    text-align: center;
+    width: 700px;
+    height: 60px;
+    position: relative;
+    background-color: white;
+    border: 3px solid black;
+    font-size: 20px;
+    margin-top: 50px;
+    margin-left: 200px;
+    padding: 10px;     
+}
+.listaBotones2{
+    text-align: center;
+    width: 700px;
+    height: 100px;
+    position: relative;
+    background-color: white;
+    border: 3px solid black;
+    font-size: 20px;
+    margin-top: 50px;
+    margin-left: 200px;
+    padding: 10px;     
+}

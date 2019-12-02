@@ -1,0 +1,26 @@
+.columnas{
+    position: relative;
+    text-align: center;
+    padding: 50px;
+}
+.col{
+    margin-bottom: 30px;
+
+}
+  .boton{
+    width: 280px;
+    height: 280px;
+    background-image: url(../img/logo.PNG);
+    background-size: cover;
+    border: 3px solid black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 45px;
+    color: black;
+    margin: 4px 2px;
+    border-radius: 50%;
+    padding-top: 100px;
+    font-weight: bold;
+    }
+

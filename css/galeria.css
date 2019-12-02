@@ -1,0 +1,55 @@
+.item{
+    padding: 1em;
+    border: 3px solid black;
+    background-color: var(--color);
+    border-radius: 7px;
+}
+.m{
+    grid-column: 4/2;
+}
+.n{
+    grid-row: 1/2;
+}
+.h{
+    grid-column: 1/4;
+}
+
+.galeria{
+    margin: auto;
+    margin-top: 100px;
+    width: 700px;
+    height: 100%;
+    display: grid;
+    grid-template-columns: repeat(3,1fr); /*estos son las columnas*/
+    grid-template-rows: 1fr 1fr;
+    grid-gap: 1em; /*esto es el espacio entre filas y columnas si le pongo dos valores el primero es para el X y el segundo la / */
+    /* border: 1px dashed #777; */
+}
+.grupo{
+    background-image: url("../img/grupal.png");
+    background-size: cover;
+    height: 400px;
+
+}
+.salto{
+    background-image: url("../img/saltocajon.jpg");
+    background-size: cover;
+}
+
+.comba{
+    background-image: url("../img/comba.jpg");
+    background-size: cover;
+    height: 270px;
+}
+
+.trx{
+    background-image: url("../img/trx.jpg");
+    background-size: cover;
+    height: 270px;
+}
+
+.cher{
+    background-image: url("../img/mancu.jpg");
+    background-size: cover;
+    height: 270px;
+}

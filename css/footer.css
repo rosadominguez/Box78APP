@@ -1,0 +1,18 @@
+
+.foot{
+    position: relative;
+    background-color: black;
+    color: white;
+    margin-left: -200px;
+    margin-top: 60px;
+    padding-top: 40px;
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+.fotBox{
+    position: relative;
+    background-image: url("../img/fotBox.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}

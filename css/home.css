@@ -1,0 +1,25 @@
+.fondoHome{
+    width: 600px;
+    height: 600px;
+    margin-top: 30px;
+    position: relative;
+}
+
+.pizarra{
+    background-color: white;
+    width: 750px;
+    height: 500px;
+    margin-top:40px;
+    position: absolute;
+    margin-left: 130px;
+    background-image: url(../img/pizarra.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 10px solid rgb(255, 255, 3);
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 30px;
+}
+

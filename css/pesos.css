@@ -1,0 +1,18 @@
+.pesos{
+    position: relative;
+    width: 600px;
+    height: 50px;
+    margin-left: 150px;
+    background-color:white;
+    text-align: center;
+    color:blue;
+    font-size: 20px; 
+    margin: 8px;
+    padding: 8px;
+    border: 3px solid black;
+    margin-left: 150px;
+
+}
+.divPesos{
+    margin-top: 50px;
+}

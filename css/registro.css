@@ -1,0 +1,15 @@
+.registrar{
+    margin: 0px;
+    background-color: rgba(20, 20, 209, 0.89);
+    border: 10px solid rgb(207, 207, 34);
+}
+.reg{
+    color: rgb(5, 2, 62);
+font-size: 20px;
+text-align: center;
+margin-top: 20px;
+}
+
+.logRegistro{
+    margin-top: 60px;
+}

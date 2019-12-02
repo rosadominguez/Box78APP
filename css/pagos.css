@@ -1,0 +1,19 @@
+.tablaUsu{
+
+    background-color: aliceblue;
+    width: 100%;
+    height: 100%;
+    position: relative;
+    margin-left: 150px;
+    text-align: center;
+    border: 5px solid black;
+
+}
+
+#fotoLista{
+    position: absolute;
+}
+
+.busNomPago{
+    margin-top: 20px;
+}
